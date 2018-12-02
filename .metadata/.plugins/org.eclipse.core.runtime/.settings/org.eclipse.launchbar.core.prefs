@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Flash_Models,org.eclipse.launchbar.core.descriptorType.default\:SRF05,org.eclipse.launchbar.core.descriptorType.default\:SRF05_12864,org.eclipse.launchbar.core.descriptorType.default\:SecClock
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:2.8TFT_Show/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:2.8TFT_Show/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:First/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:First/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:LCD12864/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:LCD12864/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:LCD1602/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:LCD1602/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Retry1602/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:uart/activeLaunchMode=debug
